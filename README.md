@@ -8,4 +8,4 @@ Hi, I'm Amin Mortezaie! 👋
 
 🌟 I am confident in my ability to tackle new challenges and collaborate on complex projects. Motivated by my passion for blockchain and the desire to make a positive impact, I look forward to continuous skill development and contributing meaningfully to the field.
 
-📫 Connect with me! [Your LinkedIn Profile](https://www.linkedin.com/in/aminmortezaie)
+📫 Connect with me! [Linkedin](https://www.linkedin.com/in/aminmortezaie)
