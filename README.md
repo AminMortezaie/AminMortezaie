@@ -2,7 +2,7 @@
 
 Backend Engineer focused on distributed systems, concurrency, performance engineering, and production-grade backend architecture.
 
-Currently based in Armenia 🇦🇲 and working toward building resilient, scalable systems while continuously exploring how backend infrastructure behaves under real production pressure.
+Working toward building resilient, scalable systems while continuously exploring how backend infrastructure behaves under real production pressure.
 
 ---
 
