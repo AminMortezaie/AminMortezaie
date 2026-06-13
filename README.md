@@ -168,21 +168,6 @@ They are defined by:
 
 ---
 
-## Current Learning Paths
-
-```text
-Flow 1 → Request Lifecycle, Cancellation & Resource Exhaustion
-Flow 2 → Goroutines, Threads & Scheduling
-Flow 3 → Channels, Select & Coordination
-Flow 4 → JVM Memory & Synchronization
-Flow 5 → PostgreSQL Internals & Isolation
-Flow 6 → Distributed Systems & Messaging
-Flow 7 → Networking, TCP & HTTP
-Flow 8 → Reliability Engineering & Failure Recovery
-```
-
----
-
 ## Fun Fact
 
 A large part of my engineering curiosity comes from asking questions like:
